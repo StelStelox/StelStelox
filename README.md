@@ -7,4 +7,4 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/JDK-eb7f0c?style=for-the-badge&logo=openjdk&labelColor=black"> 
 </div>
 
-[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StelStelox&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StelStelox&theme=github_dark)
