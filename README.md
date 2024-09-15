@@ -7,6 +7,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/JDK-eb7f0c?style=for-the-badge&logo=openjdk&labelColor=black"> 
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StelStelox&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StelStelox&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StelStelox&theme=github_dark)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Stel_Stelox?theme=dark&font=Doppio%20One&ext=heatmap)
+[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
