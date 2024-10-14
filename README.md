@@ -7,4 +7,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/JDK-eb7f0c?style=for-the-badge&logo=openjdk&labelColor=black"> 
 </div>
 
-[![](https://raw.githubusercontent.com/StelStelox/StelStelox/main/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StelStelox/StelStelox/main/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StelStelox/StelStelox/main/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StelStelox&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StelStelox&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StelStelox&theme=react&utcOffset=8)
